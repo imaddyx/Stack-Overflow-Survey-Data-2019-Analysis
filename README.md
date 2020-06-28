@@ -1,7 +1,7 @@
 # Stack-Overflow-Survey-Data-2019-Analysis
 
 ## 1 - Data Science Blog Post
-You can read my Medium Blog Post in [here]().
+You can read my Medium Blog Post in [here](https://medium.com/@bcsf14.28/top-countries-for-programmers-analysis-on-stack-overflow-survey-data-2019-5c7382307532).
 
 ### Libraries
 To be able to run this notebook, you need to install these libraries:
